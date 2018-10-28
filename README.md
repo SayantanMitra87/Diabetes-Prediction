@@ -1,4 +1,4 @@
-# PIMA-project_detecting-diabetes
+# PIMA_detecting-diabetes
 Context
 The Pima are a group of native Americans living in what is now central and southern Arizona. The Pima Indians of Arizona have the highest rate of obesity and diabetes ever recorded, and since they have the willingness to help the research process, the National Institute of Diabetes and Digestive and Kidney have been able to collect the data about the Pima’s group (only women are included in this study).
 
