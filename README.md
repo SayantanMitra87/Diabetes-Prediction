@@ -6,3 +6,6 @@ What kind of analysis to perform?
 The most common question to work on would be to create a classification model for predicting wether or not the patient is diabetic. Principal components analysis and other dimensionalty reduction methods have shown great improvements in the predictive power of these models with this data set. Clustering can be used as well to understand the underlying groups within women. With the same objective, statistics and data analysis can give great ideas about what are the main influencials factors for diabetes.
 
 To go further, different regression studies can be performed as well to study more in detail the population of the Pima's.
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
