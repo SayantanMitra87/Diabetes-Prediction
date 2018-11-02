@@ -12,4 +12,8 @@ To go further, different regression studies can be performed as well to study mo
 
 Pima Indians and Diabetes
 https://youtu.be/pN4HqWRybwk?t=28
+
+
 [![Watch the video](https://img.youtube.com/vi/pN4HqWRybwk?t=28/maxresdefault.jpg)](https://youtu.be/pN4HqWRybwk&t=183s)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pN4HqWRybwk&t=183s/0.jpg)](http://www.youtube.com/watch?v=pN4HqWRybwk&t=183s)
