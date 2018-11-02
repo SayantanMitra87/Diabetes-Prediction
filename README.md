@@ -8,6 +8,6 @@ The most common question to work on would be to create a classification model fo
 To go further, different regression studies can be performed as well to study more in detail the population of the Pima's.
 
 
-**A brief history of diabetes and Pima Indians:**
+**Diabetes and it's adverse impact on body:**
 
-[![Diabetes in Pima Indians](http://img.youtube.com/vi/pN4HqWRybwk/0.jpg)](http://www.youtube.com/watch?v=pN4HqWRybwk) 
+[![Diabetes in Pima Indians](http://img.youtube.com/vi/X9ivR4y03DE/0.jpg)](http://www.youtube.com/watch?v=X9ivR4y03DE) 
