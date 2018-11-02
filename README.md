@@ -7,5 +7,5 @@ The most common question to work on would be to create a classification model fo
 
 To go further, different regression studies can be performed as well to study more in detail the population of the Pima's.
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=pN4HqWRybwk&t=183s)
 
