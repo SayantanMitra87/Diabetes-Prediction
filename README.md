@@ -9,4 +9,5 @@ To go further, different regression studies can be performed as well to study mo
 
 
 **A brief history of diabetes and Pima Indians:**
+
 [![Diabetes in Pima Indians](http://img.youtube.com/vi/pN4HqWRybwk/0.jpg)](http://www.youtube.com/watch?v=pN4HqWRybwk) 
