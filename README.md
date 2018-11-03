@@ -1,13 +1,8 @@
-# PIMA_detecting-diabetes
-Context
-The Pima are a group of native Americans living in what is now central and southern Arizona. The Pima Indians of Arizona have the highest rate of obesity and diabetes ever recorded, and since they have the willingness to help the research process, the National Institute of Diabetes and Digestive and Kidney have been able to collect the data about the Pima’s group (only women are included in this study).
+# Diabetes-Prediction
 
-What kind of analysis to perform?
-The most common question to work on would be to create a classification model for predicting wether or not the patient is diabetic. Principal components analysis and other dimensionalty reduction methods have shown great improvements in the predictive power of these models with this data set. Clustering can be used as well to understand the underlying groups within women. With the same objective, statistics and data analysis can give great ideas about what are the main influencials factors for diabetes.
+Diabetes mellitus, commonly referred to as diabetes, affects over 29 million people in the United States. Diabetes arises due to improper production and/or functioning of the hormone insulin, resulting in impaired metabolism of carbohydrates leading to a high level of glucose in the blood. Molecular mechanism of diabetes and its adverse impact on the body is well documented with animations in the following video. 
 
-To go further, different regression studies can be performed as well to study more in detail the population of the Pima's.
+Pima Indians living in Arizona have the highest rate of obesity and diabetes ever recorded. Studying the Pima population can give us key insights about the driving factors behind diabetes. Thus, I will be using data collected from Pima Indians to predict diabetes with machine learning. 
 
-
-**Diabetes and it's adverse impact on body:**
-
+**Diabetes and its adverse impact on body:**
 [![Diabetes in Pima Indians](http://img.youtube.com/vi/X9ivR4y03DE/0.jpg)](http://www.youtube.com/watch?v=X9ivR4y03DE) 
