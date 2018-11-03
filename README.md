@@ -4,5 +4,5 @@ Diabetes mellitus, commonly referred to as diabetes, affects over 29 million peo
 
 Pima Indians living in Arizona have the highest rate of obesity and diabetes ever recorded. Studying the Pima population can give us key insights about the driving factors behind diabetes. Thus, I will be using data collected from Pima Indians to predict diabetes with machine learning. 
 
-**Diabetes and its adverse impact on body:**
+**Diabetes and its adverse impact on body:**<br/>
 [![Diabetes in Pima Indians](http://img.youtube.com/vi/X9ivR4y03DE/0.jpg)](http://www.youtube.com/watch?v=X9ivR4y03DE) 
