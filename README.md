@@ -1,4 +1,5 @@
-# Diabetes-Prediction: Predicting diabetes among PIMA population
+# Diabetes-Prediction: 
+Predicting diabetes among PIMA population
 
 ## Overview:
 Diabetes mellitus, commonly referred to as diabetes, affects over 29 million people in the United States. Diabetes arises due to improper production and/or functioning of the hormone insulin, resulting in impaired metabolism of carbohydrates leading to a high level of glucose in the blood. Molecular mechanism of diabetes and its adverse impact on the body is well documented with animations in the following video. 
