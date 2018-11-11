@@ -9,7 +9,3 @@ Pima Indians living in Arizona have the highest rate of obesity and diabetes eve
 **Diabetes and its adverse impact on body:**<br/>
 [![Diabetes in Pima Indians](http://img.youtube.com/vi/X9ivR4y03DE/0.jpg)](http://www.youtube.com/watch?v=X9ivR4y03DE) 
 
-## Summary:
-
-## Machine Learning:
-
